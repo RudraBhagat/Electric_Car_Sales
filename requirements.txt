@@ -1,5 +1,8 @@
+streamlit==1.19.0
+altair==4.2.2
 pandas
-statsmodels
-joblib
-streamlit
+numpy
+matplotlib
 plotly
+statsmodels
+scipy
